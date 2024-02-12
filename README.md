@@ -46,15 +46,40 @@ Here are some of the Python projects I'm currently working on or have contribute
 
 1. **Complex Password Generator**
    - Description: Generate a complex password using this python program by simply suplying how many characters, numbers and special characters you want.
-   - GitHub Repository: [Link](https://github.com/yourusername/project1)
+   - GitHub Repository: [Link](https://github.com/rocky39907/Python/blob/main/Password_Generator.py)
 
-2. **Project Name 2**
-   - Description: Brief description of the project.
-   - GitHub Repository: [Link](https://github.com/yourusername/project2)
+2. **Hangman Game**
+   - Description: Addictive Hangman game where you can test your vocabulary of words.
+   - GitHub Repository: [Link](https://github.com/rocky39907/Python/tree/main/hangman_game)
 
-3. **Project Name 3**
-   - Description: Brief description of the project.
-   - GitHub Repository: [Link](https://github.com/yourusername/project3)
+3. **Days Name Finder**
+   - Description: Find the Days name of the given date of an year.
+   - GitHub Repository: [Link](https://github.com/rocky39907/Python/blob/main/days_name_finder.py)
+
+4. **Cofee Machine**
+   - Description: Simulate a typical Cofee Machine where you can order your favorite beverage.
+   - GitHub Repository: [Link](https://github.com/rocky39907/Python/blob/main/coffee_machine.py)
+
+5. **Quiz Game**
+   - Description: Play an interesting quiz and test your general knowledge.
+   - GitHub Repository: [Link](https://github.com/rocky39907/Python/tree/main/quiz-game-start)
+
+6. **Fun with Paiting**
+   - Description: Check out some of the fun painting programs in this Project and I'm sure you would love them.
+   - GitHub Repository: [Link](https://github.com/rocky39907/Python/tree/main/Painting)
+
+7. **Turtle Race**
+   - Description: Oh, this was really a fun project to build this Turtle Race Game. I'm sure you would find it interesting.
+   - GitHub Repository: [Link](https://github.com/rocky39907/Python/blob/main/turtle_race.py)
+     
+8. **Snake Game**
+   - Description: Remember the old Nokia Phone Snake Game? I've built the same game in this Project and it's SUPER addictive.
+   - GitHub Repository: [Link](https://github.com/rocky39907/Python/tree/main/snake_game)
+
+9. **Pong Game**
+   - Description: Another old days game recreated. Equally addictive as Snake Game.
+   - GitHub Repository: [Link](https://github.com/rocky39907/Python/tree/main/pong_game)
+
 
 Feel free to explore these projects and contribute if you find them interesting!
 

@@ -1,4 +1,4 @@
-# [Rakesh] - Security, Active Directory and Cryptography/PKI Architect/Consultant, Cyber Threat Intelligence & Threat Hunter
+# [Rakesh] - SME in AD, Cryptography, PKI, CyberSecurity, CTI, TH and Python Developer
 
 Welcome to my GitHub profile! I am a passionate Security, Active Directory and Cryptography/PKI Architect/Consultant. I'm also continuous learner in the field of Python Developing, Cyber Threat Intelligence (CTI) and Threat Hunting. 
 With a keen eye for identifying and mitigating potential cyber threats in these technologies, I strive to contribute to the security community by developing innovative tools and solutions. 

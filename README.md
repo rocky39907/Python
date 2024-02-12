@@ -14,7 +14,7 @@ Below, you'll find an overview of my expertise and the projects I'm currently wo
 
 ## Skills
 
-**- Active Directory SME**
+- Active Directory SME
     -  AD Architecture Design
     -  Disaster Recovery Planning
     -  LDAP
@@ -22,13 +22,13 @@ Below, you'll find an overview of my expertise and the projects I'm currently wo
     -  AD Replication
     -  User Profile
     -  AD Performance Analysis
-**- Cryptography and PKI SME/Architect**
+- Cryptography and PKI SME/Architect
     -  Public Key Infrastructure Architecture Design and Deployment
     -  OCSP, CRL planning and deployment
     -  Advanced PKI role planning and deployment like NDES, Smart Card, CEP/CES
     -  Different Cryptography and it's advantage/disadvantage.
     -  Provide SME support during critical PKI event.
-**- Python Development**
+- Python Development
     -  Python scripting
     -  Develop complex python classes
     -  Built various Games
